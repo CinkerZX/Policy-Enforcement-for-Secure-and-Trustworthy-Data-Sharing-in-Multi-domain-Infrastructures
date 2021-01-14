@@ -1,0 +1,14 @@
+javac -cp amqp-client-5.7.1.jar ReceiveLogsTopic.java
+javac -cp amqp-client-5.7.1.jar EmitLogTopic.java
+
+java -cp .;amqp-client-5.7.1.jar;slf4j-api-1.7.26.jar;slf4j-simple-1.7.26.jar EmitLogTopic "sensor.event" "{src: \"frontend\"; type: \"EVENT_EMERGENCY\"; body:{true}}"
+
+java -cp  .;amqp-client-5.7.1.jar;slf4j-api-1.7.26.jar;slf4j-simple-1.7.26.jar EmitLogTopic "planner.init" "{src: \"frontend\"; type: \"PLANNER_START\"; body:{}}"
+
+java -cp .;amqp-client-5.7.1.jar;slf4j-api-1.7.26.jar;slf4j-simple-1.7.26.jar ReceiveLogsTopic "#"
+
+java -cp .;amqp-client-5.7.1.jar;slf4j-api-1.7.26.jar;slf4j-simple-1.7.26.jar ReceiveLogsTopic "sensor.*"
+
+java -cp .;amqp-client-5.7.1.jar;slf4j-api-1.7.26.jar;slf4j-simple-1.7.26.jar ReceiveLogsTopic "planner.*"
+
+EXCHANGE_NAME = "dex01"

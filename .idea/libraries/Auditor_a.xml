@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Auditor-a">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jaca-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cartago-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jason-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-simple-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ErrorList.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jedit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ant-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jade-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BufferTabs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SideKick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jason-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ant-launcher-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jason-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/amqp-client-5.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

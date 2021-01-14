@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/BufferTabs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jason-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/amqp-client-5.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jedit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaca-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ErrorList.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jason-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cartago-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/SideKick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jade-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jason-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections4-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
